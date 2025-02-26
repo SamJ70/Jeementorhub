@@ -14,7 +14,7 @@ export const Navbar: React.FC<NavbarProps> = ({ user, onOpenAuth }) => {
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <img 
-            src="src/logo.png" 
+            src="/logo.png" 
             alt="JEE Mentor Hub Logo" 
             className="h-10"
           />
