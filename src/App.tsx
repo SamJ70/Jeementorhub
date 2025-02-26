@@ -60,7 +60,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 relative z-10">
           <div className="flex flex-col items-center justify-center mb-10">
             <img 
-              src="src/logo.png" 
+              src="/logo.png" 
               alt="JEE Mentor Hub Logo" 
               className="h-32 mb-6 rounded-full"
             />

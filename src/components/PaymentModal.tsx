@@ -31,7 +31,7 @@ export const PaymentModal: React.FC<PaymentModalProps> = ({ isOpen, onClose, pla
 
           <div className="mb-4">
             <img 
-              src="src/qr code.jpg"
+              src="/qr code.jpg"
               alt="Payment QR Code"
               className="w-full max-w-[250px] mx-auto rounded-lg shadow-lg"
             />
