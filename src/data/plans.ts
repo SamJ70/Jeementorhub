@@ -10,7 +10,7 @@ export const mentorshipPlans: Plan[] = [
       'One compulsory mentoring session per month',
       'Personal phone access to an IIT Roorkee mentor',
       'Basic doubt clearing support',
-      'Access to mentor during business hours for about 45 mins in a week'
+      'Access to mentor during business hours for about 15 mins in a week'
     ]
   },
   {
